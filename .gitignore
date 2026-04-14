@@ -1,0 +1,9 @@
+*.zip
+*.tif
+*.tiff
+*.bsq
+*.hdr
+data/
+local_config.json
+.venv/
+.ipynb_checkpoints/
